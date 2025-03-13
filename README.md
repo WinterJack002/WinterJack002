@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `Winter`
 - ⚡ Fun fact: The earch is round.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![golang](https://img.shields.io/badge/golang-00ADD8?style=flat&logo=go&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-008000?style=flat&logo=webrtc&logoColor=white)
+
+### 📊 GitHub Stats
+![WinterJack002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinterJack002&show_icons=true&theme=vue)
+![WinterJack002's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=WinterJack002&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterJack002&layout=compact&theme=vue)
