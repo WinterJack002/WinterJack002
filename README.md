@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 ![WinterJack002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinterJack002&show_icons=true&theme=vue)
+<!--
 ![WinterJack002's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=WinterJack002&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterJack002&layout=compact&theme=vue)
+-->
