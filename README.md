@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `Winter`
 - ⚡ Fun fact: The earch is round.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![golang](https://img.shields.io/badge/golang-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=flat&logo=C++&logoColor=black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-00ADD8?style=flat&logo=FFmpeg&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-008000?style=flat&logo=webrtc&logoColor=white)
 
 ### 📊 GitHub Stats
