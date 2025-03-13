@@ -4,7 +4,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://www.mpeg.org/standards/MPEG-I/39/">MPEG-ARF</a>, H.264/AVC, WebRTC...</li>
+        <li>🔭 I’m currently working on <a href="https://www.mpeg.org/standards/MPEG-I/39/" style="background-color: #007bff; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; font-weight: bold;">MPEG-ARF</a>, H.264/AVC, WebRTC...</li>
         <li>🌱 I’m currently learning everything in the world.</li>
         <li>👯 I’m looking to collaborate on <a href="https://chat.deepseek.com/">DeepSeek</a></li>
         <li>💬 Ask me about <i>WebRTC, ffmpeg, H.264</i>.</li>
