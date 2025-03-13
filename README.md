@@ -4,15 +4,16 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://www.mpeg.org/standards/MPEG-I/39/">MPEG-ARF</a>, H.264/AVC, WebRTC...</li>
+        <li>🔭 I’m currently working on <a href="https://www.mpeg.org/standards/MPEG-I/39/">`MPEG-ARF`</a>, H.264/AVC, WebRTC...</li>
         <li>🌱 I’m currently learning everything in the world.</li>
-        <li>👯 I’m looking to collaborate on <a href="https://chat.deepseek.com/">DeepSeek</a></li>
+        <li>👯 I’m looking to collaborate on <a href="https://chat.deepseek.com/">`DeepSeek`</a></li>
         <li>💬 Ask me about <i>WebRTC, ffmpeg, H.264</i>.</li>
         <li>😄 Pronouns: <code>Winter</code></li>
         <li>⚡ Fun fact: The earth is round.</li>
       </ul>
       <!-- 在介绍下面嵌入徽章 -->
       <p>
+          <img src="https://img.shields.io/badge/MPEG--ARF-FF6600?style=flat-square&logo=mpeg&logoColor=white" alt="MPEG-ARF">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
           <img src="https://img.shields.io/badge/FFmpeg-007ACC?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg">
           <img src="https://img.shields.io/badge/WebRTC-008000?style=flat&logo=webrtc&logoColor=white" alt="WebRTC">
