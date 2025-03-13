@@ -1,10 +1,29 @@
 ## Better for Winter!!! 👋
 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://www.mpeg.org/standards/MPEG-I/39/">MPEG-ARF</a>, H.264/AVC, WebRTC...</li>
+        <li>🌱 I’m currently learning everything in the world.</li>
+        <li>👯 I’m looking to collaborate on <a href="https://chat.deepseek.com/">DeepSeek</a></li>
+        <li>💬 Ask me about <i>WebRTC, ffmpeg, H.264</i>.</li>
+        <li>😄 Pronouns: <code>Winter</code></li>
+        <li>⚡ Fun fact: The earth is round.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=WinterJack002&show_icons=true&theme=vue" alt="WinterJack002's GitHub Stats">
+    </td>
+  </tr>
+</table>
+
+
 <!--
 **WinterJack002/WinterJack002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on [`MPEG-ARF`](https://www.mpeg.org/standards/MPEG-I/39/), H.264/AVC, WebRTC...
 - 🌱 I’m currently learning everything in the word.
 - 👯 I’m looking to collaborate on [`DeepSeek`](https://chat.deepseek.com/)
@@ -18,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 ![WinterJack002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinterJack002&show_icons=true&theme=vue)
-<!--
+
 ![WinterJack002's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=WinterJack002&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterJack002&layout=compact&theme=vue)
 -->
