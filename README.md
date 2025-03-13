@@ -11,6 +11,12 @@
         <li>😄 Pronouns: <code>Winter</code></li>
         <li>⚡ Fun fact: The earth is round.</li>
       </ul>
+      <!-- 在介绍下面嵌入徽章 -->
+      <p>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+          <img src="https://img.shields.io/badge/FFmpeg-007ACC?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+          <img src="https://img.shields.io/badge/WebRTC-008000?style=flat&logo=webrtc&logoColor=white" alt="WebRTC">
+      </p>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=WinterJack002&show_icons=true&theme=vue" alt="WinterJack002's GitHub Stats">
